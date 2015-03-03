@@ -1,4 +1,5 @@
 html, body, #map_canvas {
+	font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
   height: 100%;
@@ -47,3 +48,37 @@ html, body, #map_canvas {
   right: 0;
   left: 0;
 }
+
+.main{
+	font-family: 'Open Sans', sans-serif;
+  text-align:center;	
+}
+
+
+.about {
+	text-align: center; 
+	position: relative; 
+	top: 100px; 
+	font-weight: 300;
+} 
+
+.about h1 {
+	font-size: 48px; 
+	margin: 42px 0; 
+	font-weight: 300;
+} 
+
+.about h2 {
+	font-size: 26px; 
+	margin: 42px 0; 
+	font-weight: 300;
+} 
+
+.about .btn {
+	font-weight: 600; 
+	border-radius: 0; 
+	padding: 16px 26px; 
+	font-size: 16px; 
+
+} 
+
